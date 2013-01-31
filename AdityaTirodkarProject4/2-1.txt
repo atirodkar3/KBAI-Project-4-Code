@@ -1,0 +1,68 @@
+8-8~
+Problem 1~
+Q11~
+Number of Objects: M~
+Object i: f~
+Position: All~
+Orientation: All~
+Rotation: 90~
+Filled: No~
+//~
+Q12~
+Number of Objects: M~
+Object i: f~
+Position: All~
+Orientation: All~
+Rotation: -90~
+Filled: No~
+//~
+Q21~
+Number of Objects: M~
+Object i: f~
+Position: All~
+Orientation: All~
+Rotation: 90~
+Filled: No~
+//~
+Options~
+V1~
+/~
+V2~
+Number of Objects: M~
+Object i: f~
+Position: All~
+Orientation: All~
+Rotation: -90~
+Filled: No~
+/~
+V3~
+Number of Objects: M~
+Object i: f~
+Position: All~
+Orientation: All~
+Rotation: 90~
+Filled: No~
+/~
+V4~
+Number of Objects: M~
+Object i: f~
+Position: All~
+Orientation: All~
+Rotation: -90~
+Filled: No~
+/~
+V5~
+/~
+V6~
+Number of Objects: M~
+Object i: f~
+Position: All~
+Orientation: All~
+Rotation: 90~
+Filled: No~
+/~
+V7~
+/~
+V8~
+/~
+///~

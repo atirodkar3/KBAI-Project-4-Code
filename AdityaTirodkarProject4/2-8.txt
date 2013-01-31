@@ -1,0 +1,302 @@
+8-8~
+Problem 8~
+Q11~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+//~
+Q12~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+//~
+Q13~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+//~
+Q21~
+Number of Objects: M~
+Object i: b~
+Position: Center~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Middle~
+Rotation: 180~
+Filled: Yes~
+//~
+Q22~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+//~
+Q23~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Middle~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Middle~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Middle~
+Rotation: 180~
+Filled: Yes~
+//~
+Q31~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Middle~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Bottom~
+Rotation: 180~
+Filled: Yes~
+//~
+Q32~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Bottom~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Bottom~
+Rotation: 0~
+Filled: Yes~
+//~
+Options~
+V1~
+Number of Objects: M~
+Object i: b~
+Position: Center~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Bottom~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Bottom~
+Rotation: 0~
+Filled: Yes~
+/~
+V2~
+Number of Objects: M~
+Object i: b~
+Position: Center~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Top~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Middle~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Bottom~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Bottom~
+Rotation: 0~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Bottom~
+Rotation: 0~
+Filled: Yes~
+/~
+V3~
+/~
+V4~
+/~
+V5~
+/~
+V6~
+/~
+V7~
+/~
+V8~
+Number of Objects: M~
+Object i: b~
+Position: Center~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Middle~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Middle~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Middle~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Center~
+Orientation: Bottom~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Left~
+Orientation: Bottom~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Bottom~
+Rotation: 180~
+Filled: Yes~
+/~
+///~

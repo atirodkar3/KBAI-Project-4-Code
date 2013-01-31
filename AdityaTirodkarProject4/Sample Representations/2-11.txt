@@ -1,0 +1,60 @@
+8-8~
+Problem 11~
+Q11~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+//~
+Q12~
+Number of Objects: M~
+Object i: b~
+Position: Left~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+//~
+Q21~
+Number of Objects: M~
+Object i: b~
+Position: Center~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+//~
+Options~
+V1~
+/~
+V2~
+/~
+V3~
+/~
+V4~
+/~
+V5~
+/~
+V6~
+/~
+V7~
+/~
+V8~
+Number of Objects: M~
+Object i: b~
+Position: Center~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+Object i: b~
+Position: Right~
+Orientation: Top~
+Rotation: 180~
+Filled: Yes~
+/~
+///~
